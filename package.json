@@ -1,0 +1,22 @@
+{
+  "name": "lap2_microsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaireCullimore/lap2_microsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaireCullimore/lap2_microsite/issues"
+  },
+  "homepage": "https://github.com/ClaireCullimore/lap2_microsite#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
